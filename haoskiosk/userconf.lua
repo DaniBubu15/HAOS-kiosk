@@ -34,13 +34,13 @@ local New_Escape_Key = "<Control-Mod1-Escape>" -- Ctl-Alt-Esc
 
 -- Load in environment variables to configure options
 local defaults = {
-    HA_USERNAME = "",
-    HA_PASSWORD = "",
+    HA_USERNAME = "tgepi",
+    HA_PASSWORD = "550455",
     HA_URL = "http://localhost:8123",
-    HA_THEME = "",
-    HA_SIDEBAR = "",
+    HA_THEME = "dark",
+    HA_SIDEBAR = "none",
 
-    LOGIN_DELAY = 1,
+    LOGIN_DELAY = 2,
     ZOOM_LEVEL = 100,
     BROWSER_REFRESH = 600,
                         }
